@@ -8,37 +8,37 @@ const services = [
   {
     title: "Remap Stage 1 / Plus",
     //desc: `Peak Performance Centre use only Original Equipment Specification parts and work with the Care and Attention your car deserves. We offer the Highest Quality Customer Service and will treat your vehicle as if it were our own. Leave the workshop with your car feeling brand new. You’ll be amazed by the difference our Dealer Level Service will make.`,
-    image: "/i1.png",
+    image: "/i.png",
     path: "/services/mechanical",
   },
   {
     title: "Remap Stage 2 / Plus",
   //desc: `DEALER LEVEL DIAGNOSTICSYou’re a Busy Person — don’t let vehicle problems get in your way. Peak Performance Centre have the Specialist Equipment, Training and Experience to Locate and Repair your fault First Time. `,
-    image: "/i2.png",
+    image: "/i.png",
     path: "/services/service",
   },
   {
     title: "Remap Stage 3 / Plus",
    // desc: `Unlock your cars true potential with a Performance Software package that suits both you and your vehicle. With more Brake Horsepower and an increase in Torque, your vehicle will drive like new and you'll be surprised by the level of improvements gained. `,
-    image: "/i2.avif",
+    image: "/i2avif",
     path: "/services/mot",
   },
   {
     title: "Popcorn Limiter / Hardcut",
    // desc: `For a long time the word DPF has been synonymous with every diesel drivers worst nightmare... NOT ANY MORE!!! `,
-    image: "/i3.png",
+    image: "/i3.ng",
     path: "/services/wheel-alignment",
   },
     {
     title: "Key Immobiliser Removal/ Fitting",
     //desc: `Your vehicle's Timing Belt unfortunately comes with a limited life expectancy which should Never go unanswered. The Cost of Repairs if it were to fail can surmount to Thousands of pounds worth of Engine Damage. Don't Leave it to Chance! Drop in or Call us for Advice on Replacement Interval Guidelines. `,
-    image: "/i4.png",
+    image: "/i4.pg",
     path: "/services/wheel-alignment",
   },
       {
     title: "Key Programming",
     //desc: `Your vehicle's Timing Belt unfortunately comes with a limited life expectancy which should Never go unanswered. The Cost of Repairs if it were to fail can surmount to Thousands of pounds worth of Engine Damage. Don't Leave it to Chance! Drop in or Call us for Advice on Replacement Interval Guidelines. `,
-    image: "/i5.png",
+    image: "/i5.pg",
     path: "/services/wheel-alignment",
   }
   
